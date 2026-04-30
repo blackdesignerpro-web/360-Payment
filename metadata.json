@@ -1,0 +1,6 @@
+{
+  "name": "Gestão 360 Offline",
+  "description": "Sistema completo de gestão financeira, estoque e POS com integração móvel via rede local.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["pos", "inventory", "finance", "offline"]
+}
